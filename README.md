@@ -1,6 +1,7 @@
 # notes_application
 
-A new Flutter project.
+A new Flutter project using SQLite
+Features of the app: signin, sign up, CRUD status notes, CRUD priority note, CRUD Category note, CRUD note..
 
 ## Getting Started
 
